@@ -22,3 +22,4 @@ __pycache__
 ~*
 *.venv
 _version.py
+*-checkpoint.ipynb
